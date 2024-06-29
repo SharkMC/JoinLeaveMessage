@@ -1,0 +1,5 @@
+name: JoinLeaveMessage
+version: 1.0.0
+author: ShqrkMC
+main: JoinLeaveMessage\Main
+api: 5.0.0
